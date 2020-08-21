@@ -1,0 +1,158 @@
+\begin{thebibliography}{20}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Bazilian et~al.(2011)Bazilian, Rogner, Howells, Hermann, Arent,
+  Gielen, Steduto, Mueller, Komor, Tol and
+  Yumkella}]{bazilianConsideringEnergyWater2011}
+Bazilian M, Rogner H, Howells M, Hermann S, Arent D, Gielen D, Steduto P,
+  Mueller A, Komor P, Tol RS and Yumkella KK (2011) Considering the energy,
+  water and food nexus: {{Towards}} an integrated modelling approach.
+\newblock \emph{Energy Policy} 39(12): 7896--7906.
+\newblock \doi{10.1016/j.enpol.2011.09.039}.
+
+\bibitem[{Dell'Angelo et~al.(2017)Dell'Angelo, D'Odorico and
+  Rulli}]{dellangeloThreatsSustainableDevelopment2017}
+Dell'Angelo J, D'Odorico P and Rulli MC (2017) Threats to sustainable
+  development posed by land and water grabbing.
+\newblock \emph{Current Opinion in Environmental Sustainability} 26-27:
+  120--128.
+\newblock \doi{10.1016/j.cosust.2017.07.007}.
+
+\bibitem[{D'Odorico et~al.(2018)D'Odorico, Davis, Rosa, Carr, Chiarelli,
+  Dell'Angelo, Gephart, MacDonald, Seekell, Suweis and
+  Rulli}]{dodoricoGlobalFoodEnergyWaterNexus2018}
+D'Odorico P, Davis KF, Rosa L, Carr JA, Chiarelli D, Dell'Angelo J, Gephart J,
+  MacDonald GK, Seekell DA, Suweis S and Rulli MC (2018) The {{Global
+  Food}}-{{Energy}}-{{Water Nexus}}.
+\newblock \emph{Reviews of Geophysics} 56(3): 456--531.
+\newblock \doi{10.1029/2017RG000591}.
+
+\bibitem[{Fu(2020)}]{fuPromotingGeographySustainability2020}
+Fu B (2020) Promoting {{Geography}} for {{Sustainability}}.
+\newblock \emph{Geography and Sustainability} 1(1): 1--7.
+\newblock \doi{10.1016/j.geosus.2020.02.003}.
+
+\bibitem[{Fu et~al.(2019)Fu, Wang, Zhang, Hou and
+  Li}]{fuUnravellingComplexityAchieving2019}
+Fu B, Wang S, Zhang J, Hou Z and Li J (2019) Unravelling the complexity in
+  achieving the 17 sustainable-development goals.
+\newblock \emph{National Science Review} 6(3): 386--388.
+\newblock \doi{10.1093/nsr/nwz038}.
+
+\bibitem[{Fu et~al.(2020)Fu, Zhang, Wang and
+  Zhao}]{fuClassificationCoordinationCollaboration2020}
+Fu B, Zhang J, Wang S and Zhao W (2020) Classification\textendash
+  coordination\textendash collaboration: A systems approach for advancing
+  {{Sustainable Development Goals}}.
+\newblock \emph{National Science Review} 7(5): 838--840.
+\newblock \doi{10.1093/nsr/nwaa048}.
+
+\bibitem[{Gain et~al.(2016)Gain, Giupponi and
+  Wada}]{gainMeasuringGlobalWater2016}
+Gain AK, Giupponi C and Wada Y (2016) Measuring global water security towards
+  sustainable development goals.
+\newblock \emph{Environmental Research Letters} 11(12): 124015.
+\newblock \doi{10.1088/1748-9326/11/12/124015}.
+
+\bibitem[{Grafton et~al.(2017)Grafton, Williams and
+  Jiang}]{graftonPossiblePathwaysTensions2017}
+Grafton RQ, Williams J and Jiang Q (2017) Possible pathways and tensions in the
+  food and water nexus.
+\newblock \emph{Earth's Future} 5(5): 449--462.
+\newblock \doi{10.1002/2016EF000506}.
+
+\bibitem[{Liu et~al.(2018)Liu, Hull, Godfray, Tilman, Gleick, Hoff,
+  {Pahl-Wostl}, Xu, Chung, Sun and Li}]{liuNexusApproachesGlobal2018}
+Liu J, Hull V, Godfray HCJ, Tilman D, Gleick P, Hoff H, {Pahl-Wostl} C, Xu Z,
+  Chung MG, Sun J and Li S (2018) Nexus approaches to global sustainable
+  development.
+\newblock \emph{Nature Sustainability} 1(9): 466--476.
+\newblock \doi{10.1038/s41893-018-0135-8}.
+
+\bibitem[{McElwee et~al.(2020)McElwee, Calvin, Campbell, Cherubini, Grassi,
+  Korotkov, Le~Hoang, Lwasa, Nkem, Nkonya, Saigusa, Soussana, Taboada, Manning,
+  Nampanzira and Smith}]{mcelweeImpactInterventionsGlobal2020}
+McElwee P, Calvin K, Campbell D, Cherubini F, Grassi G, Korotkov V, Le~Hoang A,
+  Lwasa S, Nkem J, Nkonya E, Saigusa N, Soussana JF, Taboada MA, Manning F,
+  Nampanzira D and Smith P (2020) The impact of interventions in the global
+  land and agri-food sectors on {{Nature}}'s {{Contributions}} to {{People}}
+  and the {{UN Sustainable Development Goals}}.
+\newblock \emph{Global Change Biology} 26(9): 4691--4721.
+\newblock \doi{10.1111/gcb.15219}.
+
+\bibitem[{Peng et~al.(2020)Peng, Hu, Dong, Mao, Liu, Du, Wu and
+  Wang}]{pengLinkingSpatialDifferentiation2020}
+Peng J, Hu Y, Dong J, Mao Q, Liu Y, Du Y, Wu J and Wang Y (2020) Linking
+  spatial differentiation with sustainability management: {{Academic}}
+  contributions and research directions of physical geography in {{China}}.
+\newblock \emph{Progress in Physical Geography: Earth and Environment} 44(1):
+  14--30.
+\newblock \doi{10.1177/0309133319878107}.
+
+\bibitem[{Pradhan et~al.(2017)Pradhan, Costa, Rybski, Lucht and
+  Kropp}]{pradhanSystematicStudySustainable2017}
+Pradhan P, Costa L, Rybski D, Lucht W and Kropp JP (2017) A {{Systematic
+  Study}} of {{Sustainable Development Goal}} ({{SDG}}) {{Interactions}}: {{A
+  SYSTEMATIC STUDY OF SDG INTERACTIONS}}.
+\newblock \emph{Earth's Future} 5(11): 1169--1179.
+\newblock \doi{10.1002/2017EF000632}.
+
+\bibitem[{Pritchard(2019)}]{pritchardAsiaShrinkingGlaciers2019b}
+Pritchard HD (2019) Asia's shrinking glaciers protect large populations from
+  drought stress.
+\newblock \emph{Nature} 569(7758): 649--654.
+\newblock \doi{10.1038/s41586-019-1240-1}.
+
+\bibitem[{Rasul and Sharma(2016)}]{rasulNexusApproachWater2016}
+Rasul G and Sharma B (2016) The nexus approach to water\textendash
+  energy\textendash food security: An option for adaptation to climate change.
+\newblock \emph{Climate Policy} 16(6): 682--702.
+\newblock \doi{10.1080/14693062.2015.1029865}.
+
+\bibitem[{Schroeder et~al.(2019)Schroeder, Anggraeni and
+  Weber}]{schroederRelevanceCircularEconomy2019}
+Schroeder P, Anggraeni K and Weber U (2019) The {{Relevance}} of {{Circular
+  Economy Practices}} to the {{Sustainable Development Goals}}.
+\newblock \emph{Journal of Industrial Ecology} 23(1): 77--95.
+\newblock \doi{10.1111/jiec.12732}.
+
+\bibitem[{Viviroli et~al.(2020)Viviroli, Kummu, Meybeck, Kallio and
+  Wada}]{viviroliIncreasingDependenceLowland2020}
+Viviroli D, Kummu M, Meybeck M, Kallio M and Wada Y (2020) Increasing
+  dependence of lowland populations on mountain water resources.
+\newblock \emph{Nature Sustainability} \doi{10.1038/s41893-020-0559-9}.
+
+\bibitem[{Yao(2018)}]{yaoFanDiSanJiHuanJingBianHuaYuDuiCe2018}
+Yao T (2018) 泛第三极环境变化与对策.
+\newblock \emph{中国科学院院刊} 33(2): 44--46.
+
+\bibitem[{Yao et~al.(2017)Yao, Chen, Cui, Ma, Xu, Zhu, Zhang, Wang, Ai and
+  Yang}]{yaoCongQingCangGaoYuanDaoDiSanJiHeFanDiSanJi2017}
+Yao T, Chen F, Cui P, Ma Y, Xu B, Zhu L, Zhang F, Wang W, Ai L and Yang X
+  (2017) 从青藏高原到第三极和泛第三极.
+\newblock \emph{中国科学院院刊} 32(9): 924--931.
+\newblock \doi{10.16418/j.issn.1000-3045.2017.09.001}.
+
+\bibitem[{Zeng et~al.(2017)Zeng, Cai, Ringler and
+  Zhu}]{zengHydropowerIrrigationAnalysis2017}
+Zeng R, Cai X, Ringler C and Zhu T (2017) Hydropower versus
+  irrigation\textemdash an analysis of global patterns.
+\newblock \emph{Environmental Research Letters} 12(3): 034006.
+\newblock \doi{10.1088/1748-9326/aa5f3f}.
+
+\bibitem[{Ziv et~al.(2012)Ziv, Baran, Nam, {Rodriguez-Iturbe} and
+  Levin}]{zivTradingoffFishBiodiversity2012}
+Ziv G, Baran E, Nam S, {Rodriguez-Iturbe} I and Levin SA (2012) Trading-off
+  fish biodiversity, food security, and hydropower in the {{Mekong River
+  Basin}}.
+\newblock \emph{Proceedings of the National Academy of Sciences} 109(15):
+  5609--5614.
+\newblock \doi{10.1073/pnas.1201423109}.
+
+\end{thebibliography}
